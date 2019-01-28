@@ -5,3 +5,4 @@ opencv249_shitomasi_corner_02[Shi Tomasi角點偵測]-彩色轉灰階cvtColor、
 opencv249_mycustom_corner_03[自定義角點偵測]-彩色轉灰階cvtColor
 opencv249_subpixel_corner_04[亞像素角點檢測]
 opencv249_surf_05[SURF特徵點計算]
+opencv249_sift_05[SIFT特徵點計算]
