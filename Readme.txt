@@ -7,4 +7,5 @@ opencv249_subpixel_corner_04[亞像素角點檢測]
 opencv249_surf_05[SURF特徵點計算]
 opencv249_sift_06[SIFT特徵點計算]
 opencv249_hog_07[行人偵測]
-	-圖片來源:http://www.taiwandiginews.com.tw/?p=72547
+	-圖片來源:http://www.taiwandiginews.com.tw/?p=72547	
+opencv249_lbp_08[人臉特徵]
